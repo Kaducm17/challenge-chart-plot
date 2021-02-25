@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<section
+  style={
+    Object {
+      "background": "#cccc",
+      "padding": "10px",
+    }
+  }
+>
+  <h2>
+    Kadu
+    's Challenge
+  </h2>
+</section>
+`;
+
+exports[` 2`] = `
+<section
+  style={
+    Object {
+      "background": "#cccc",
+      "padding": "10px",
+    }
+  }
+>
+  <h2>
+    Intelie
+    's Challenge
+  </h2>
+</section>
+`;
+
+exports[`Will test if header receives the name props 1`] = `
+<section
+  style={
+    Object {
+      "background": "#cccc",
+      "padding": "10px",
+    }
+  }
+>
+  <h2>
+    Kadu
+    's Challenge
+  </h2>
+</section>
+`;
+
+exports[`Will test if header receives the name props 2`] = `
+<section
+  style={
+    Object {
+      "background": "#cccc",
+      "padding": "10px",
+    }
+  }
+>
+  <h2>
+    Intelie
+    's Challenge
+  </h2>
+</section>
+`;
